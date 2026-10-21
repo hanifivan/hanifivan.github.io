@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hanifivan.github.io/sitemap.xml
